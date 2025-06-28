@@ -59,6 +59,20 @@ A powerful, accessible voice-controlled visual assistant designed specifically f
 
 ### Installation
 
+**Windows:**
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+**macOS/Linux:**
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+---
+
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
