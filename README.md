@@ -4,7 +4,18 @@ A powerful, accessible voice-controlled visual assistant designed specifically f
 
 ## 🌟 Unique Features
 
+## Features
+
+- **Voice-activated commands**: Just say "start", "stop", "follow up", "clear history", "ok", or "restart"—no button clicks needed!
+- **Image capture**: Takes a photo using your webcam.
+- **Speech-to-text**: Converts your spoken questions into text.
+- **AI-powered answers**: Uses a Cohere Multimodal LLM to answer your questions about the scene or follow up.
+- **Text-to-speech**: Speaks the AI's answer back to you.
+- **Modern Tkinter GUI**: Clean, accessible interface.
+
+
 ### 🎯 **Multi-Modal AI Integration**
+
 - **YOLO Object Detection** - Real-time object recognition with confidence filtering
 - **BLIP Image Captioning** - Natural language scene descriptions
 - **CLIP Scene Classification** - Environment/location identification
