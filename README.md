@@ -299,3 +299,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Graceful error handling** that doesn't leave users stranded
 
 Aurasight represents a **next-generation accessibility tool** that combines cutting-edge AI with thoughtful user experience design, making it uniquely powerful for visually impaired users while remaining useful for everyone. 
+
+**Enjoy using AuraSight!**
